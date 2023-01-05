@@ -1,0 +1,31 @@
+.each-task-container {
+  width: 53vw;
+  background-color: #1a171d;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 7px;
+}
+.task-name-text {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 300;
+}
+.added-tag-paragraph {
+  height: 30px;
+  min-width: 65px;
+  max-width: 105px;
+  background-color: #f3aa4e;
+  border-width: 0px;
+  border-radius: 10px;
+  font-weight: 'Roboto';
+  color: #1a171d;
+  font-weight: 250;
+  text-align: center;
+  padding: 3px;
+}

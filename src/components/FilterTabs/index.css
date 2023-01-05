@@ -1,0 +1,26 @@
+.tag-button {
+  height: 30px;
+  min-width: 65px;
+  max-width: 105px;
+  background-color: inherit;
+  border: 1px solid #f3aa4e;
+  border-radius: 10px;
+  font-weight: 'Roboto';
+  color: #ffffff;
+  font-weight: 200;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.active-tag-button {
+  height: 30px;
+  min-width: 65px;
+  max-width: 105px;
+  background-color: #f3aa4e;
+  border-width: 0px;
+  border-radius: 10px;
+  font-weight: 'Roboto';
+  color: #ffffff;
+  font-weight: 200;
+  margin-right: 5px;
+  cursor: pointer;
+}
